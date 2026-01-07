@@ -1,6 +1,6 @@
 # Finding Peace
 
-**A Practical Guide to Finding and Keeping your Peace**
+**A Practical Guide to Finding and Keeping Your Peace from a Doctor and AI Founder**
 
 *By Nicola Sahar*
 
@@ -18,6 +18,8 @@
 ## Read it here
 Start here: [**finding_peace_guide_v1.md**](./finding_peace_guide_v1.md)
 
+Please share with someone you care about if you found this valuable. 
+
 --- 
 
 ## Why I Wrote This
@@ -29,6 +31,12 @@ Over the years, I slowly started figuring things out. What actually works. What 
 A 10-day silent meditation retreat in Bali was a turning point - but it wasn't magic. The years of struggle before it, and the daily practice after it, matter just as much. This is a lifelong process. I'm still on it.
 
 This guide is everything I've learned so far - the principles, the practices, and the mindset shifts that actually helped me find (and keep) my peace.
+
+--- 
+
+## A Quick Word About Me
+
+I trained as a medical doctor at the University of Toronto, then left to build an AI healthcare startup ([Semantic Health](https://betakit.com/semantic-health-acquired-by-us-based-medical-documentation-firm-aapc/)) which I sold in 2025. I'm now focused on building AI for mental and spiritual health.
 
 ---
 
@@ -73,13 +81,6 @@ The guide is ~70 pages. I know that's long. Read it in a few sittings, or skip t
 - **The first person I sent this to was my mom.** There's nothing here I wouldn't say to someone I love.
 
 ---
-
-## About Me
-
-I trained as a medical doctor at the University of Toronto, then left to build an AI healthcare startup ([Semantic Health](https://betakit.com/semantic-health-acquired-by-us-based-medical-documentation-firm-aapc/)) which I sold in 2025. I'm now focused on building AI for mental and spiritual health.
-
 I also wrote a more technical guide on working with AI agents: [Morphic Programming](https://github.com/nicolasahar/morphic-programming)
-
----
 
 *If you found this useful, please star the repo and share freely. It helps others find it.*
