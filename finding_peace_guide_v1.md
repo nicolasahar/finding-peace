@@ -595,7 +595,7 @@ I'm going to spend some time covering social media here because I struggled with
 
 Again, to be very blunt: Your social media feed alone will stimulate your mind so much that it will short-circuit it (through your dopamine system). What this means in plain English is that the way the tech companies are designing social media is to get you to stay on social media for AS LONG AS POSSIBLE. They do this by giving you small, but endless, hits of things that create STRONG reactions in your brain. Your brain gets trained over time to crave these little hits, and you find yourself instinctively reaching into your pocket every free second you have for MORE.
 
-If this is you right now, please don't beat yourself up. It's not your fault. You and I live in a **dopamine casino** - a digital environment designed to keep us playing the slot machine that is our social media fee. Why? Because that's how companies make money, and they spend billions of dollars figuring out how to do this more optimally.
+If this is you right now, please don't beat yourself up. It's not your fault. You and I live in a **dopamine casino** - a digital environment designed to keep us playing the slot machine that is our social media feed. Why? Because that's how companies make money, and they spend billions of dollars figuring out how to do this more optimally.
 
 The key point is this: **The more you watch or engage with their social media platform, the more "attention" you give them, and the more ads they can sell to companies.** There's a reason social media is free for you and me... **we** are the product they are selling.
 
