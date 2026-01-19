@@ -85,6 +85,6 @@ The guide is ~70 pages. I know that's long. Read it in a few sittings, or skip t
 - **The first person I sent this to was my mom.** There's nothing here I wouldn't say to someone I love.
 
 ---
-I also wrote a more technical guide on working with AI agents: [Morphic Programming](https://github.com/nicolasahar/morphic-programming)
+I also wrote a more technical guide on working with AI agents: [Morphic Programming](https://github.com/nicolasahar/morphic-programming). This will help you improve your productivity with AI, but it might require you to be a bit more technical.
 
 **I wish you all peace in 2026 and beyond :)**

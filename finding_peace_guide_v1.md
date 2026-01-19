@@ -429,7 +429,7 @@ The more and more you practice not reacting during meditation, the more this WIL
 
 And it's **just as important** to do this when things do go your way. Like you get a huge promotion, or you feel subtle vibrations flowing through your body during meditation. When things go your way, your mind might send you thoughts like ("This feels so good") and they might genuinely feel good. But the more and more you react to these thoughts, the more these thoughts become "Let's do more of this". And if you keep reacting, they become "I *need* this". And finally they might become "I *need* this, **RIGHT NOW**, or else I will feel like crap!!!". You go from genuinely having a pleasant experience, to seeking it, to clinging to it to it, to finally CRAVING it. All at the expense of the peace of your mind.
 
-The problem is that, in life, we don't have that much control over when things will go our way. So if we are constantly reacting to the thoughts our mind throws at us (in both situations), our mind will never be at peace. It's like it's on a constant emotional rollercoaster, and it's taking you along for the ride whether you like it or not. 
+The problem is that, in life, we don't have that much control over when things will go our way. So if we are constantly reacting to the thoughts our mind throws at us (in both situations), our mind will never be at peace. It's like it's on a constant emotional rollercoaster, and it's taking you along for the ride whether you like it or not.
 
 This might sound scary or hopeless, but the key point is this: You ultimately have a choice to react or not to your mind. 
 
@@ -1414,4 +1414,4 @@ For me, keeping a log helps me track my progress, and also figure out what is wo
 
 ---
 
-*Thank you for reading. May you find your peace.*
+*Thank you for reading. May you find your peace :)*
