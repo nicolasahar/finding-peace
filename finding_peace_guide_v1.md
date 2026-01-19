@@ -85,9 +85,9 @@ This guide will be as simple and clear as possible. I know we all don't have muc
 
 - I will not cover, or am not trying to intentionally cover any religious, spiritual, or political topics. I believe what I'm saying is applicable to every single one of us, and I'm not trying to tell you what to believe or put your faith in. If you think I am, ignore my advice and move on with your life.
 
-- This guide is free - I don't need anything from you. My goal with this guide is to help you find some peace, whatever that means for you. I still struggle with this (the path is still not done for me), but I also have come a long way, and I want to share some stuff that I think will help you. If you genuinely gained some value, then please share this with someone you care about that needs to hear it :)
+- This guide is free - I don't need anything from you. My goal with this guide is to help you find some peace, whatever that means for you. I still struggle with this (the path is still not done for me), but I also have come a long way, and I want to share some stuff that I think will help you. **If you genuinely gain some value, please share this with 1 person you care about - start with your mom, or daughter/son, or partner - and help them on their own path.**
 
-- Yes, I did use AI to generate this guide. However, I want to be clear that I wrote the first draft of the guide fully on my own - 90% of what you see here is my own writing and ideas from my own personal experience. I asked the AI to polish my writing (grammar, spelling, formatting) and add some examples, but to keep my writing, style, and tone intact. The core ideas are all from my personal life. The AI did not generate net new ideas or insights for me, and I did not brainstorm with it (e.g., "brainstorm 10 principles for finding peace").
+- **I wrote this guide myself.** I did not use AI to write this guide - the ideas, principles, structure, and writing are all my own, from my direct personal experience. I used AI only to review my spelling, grammar, and formatting. To be very clear: I did not brainstorm with AI (e.g., "brainstorm 10 principles for finding peace"), I did not ask AI to generate ideas or insights, and I did not ask AI to write any sections for me.
 
 - I don't claim to have all the answers, and I still struggle with doing the things I share in this guide. So this guide is as much a reminder for me as it will be for you, and I come back to it when I need to.
 
@@ -1303,10 +1303,12 @@ If you feel something stir up in your gut, then you probably have your answer.
 
 The main reason I wrote this guide is that I believe that if everyone reads and genuinely applies the principles in this guide, then the world will be a better place for us all.
 
-If you are frustrated with the state of the world, and don't see a light at the end of the tunnel, then:
+**If there's anything I ask of you, it's:**
 
-1. Seriously commit yourself to the what I shared
-2. Share this guide with someone that you care about or that needs to hear it, and tell them they should seriously read through this and also commit themselves to this
+1. Take what I say seriously, and try it
+2. When you feel the benefits, share it with 1 person you care about, talk to them genuinely about how your life is changing, and help them on their own path. Start with your mom, or daughter/son, or partner.
+
+I really do believe that if we all take finding and maintaining our peace seriously, then the world will be a better place!
 
 **If you gained anything from this guide, I hope it's the following:**
 

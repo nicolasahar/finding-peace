@@ -18,7 +18,11 @@
 ## Read it here
 Start here: [**finding_peace_guide_v1.md**](./finding_peace_guide_v1.md)
 
-Please share with someone you care about if you found this valuable. 
+**If there's anything I ask of you, it's:**
+1. Take what I say seriously, and try it
+2. When you feel the benefits, share it with 1 person you care about. Start with your mom, or daughter/son, or partner, and help them on their own path
+
+I really do believe that if we all take finding and maintaining our peace seriously, then the world will be a better place! 
 
 --- 
 
@@ -83,4 +87,4 @@ The guide is ~70 pages. I know that's long. Read it in a few sittings, or skip t
 ---
 I also wrote a more technical guide on working with AI agents: [Morphic Programming](https://github.com/nicolasahar/morphic-programming)
 
-*If you found this useful, please star the repo and share freely. It helps others find it.*
+**I wish you all peace in 2026 and beyond :)**
